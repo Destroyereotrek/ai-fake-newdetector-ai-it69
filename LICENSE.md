@@ -1,4 +1,4 @@
-# 
+# Instant AI Fake News Detector tools. Featuring AI-security and AI-ethics — optimized for maximum performance.
 
 
 
